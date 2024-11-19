@@ -7,7 +7,7 @@
 Clone the repository
 
 ```bash
-Project repo: https://github.com/
+Project repo: https://github.com/ISZM13/medical-chatbot.git
 ```
 ### STEP 01- Create a conda environment after opening the repository
 
@@ -46,7 +46,7 @@ python app.py
 
 Now,
 ```bash
-open up localhost:
+open up localhost:http://127.0.0.1:8080/
 ```
 
 
@@ -55,5 +55,5 @@ open up localhost:
 - Python
 - LangChain
 - Flask
-- GPT
+- Google Gemini
 - Pinecone
